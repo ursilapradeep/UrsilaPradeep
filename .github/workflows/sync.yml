@@ -21,4 +21,3 @@ jobs:
           source_branch: "refs/heads/*"
           destination_repo: "https://x-access-token:${{ secrets.SYNC_TOKEN }}@github.com/Ursilasuraj/UrsilaPradeep.git"
           destination_branch: "refs/heads/*"
- 
